@@ -190,7 +190,7 @@
 		"description":"button text for premium purchase"
 	},
 	"advPremiumCtrlDisable":{
-		"message":"Disable Premium",
+		"message":"移除高级版权限",
 		"description":"button text for premium removal"
 	},
 	"advPremiumMsgHelp":{
@@ -202,7 +202,7 @@
 		"description":"content text title for premium messages"
 	},
 	"advPremiumMsgThanks":{
-		"message":"Thank you for supporting Trace!",
+		"message":"感谢您的支持！",
 		"description":"content text for when user has premium active"
 	},
 	"advPremiumMsgRequired":{
