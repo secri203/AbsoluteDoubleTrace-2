@@ -1,0 +1,586 @@
+{
+	"addon_lang":{
+		"message":"zh",
+		"description":""
+	},
+	"addon_name":{
+		"message":"Trace - Online Tracking Protection",
+		"description":""
+	},
+	"addon_description":{
+		"message":"Browse online without leaving a Trace, because who wants to be tracked?",
+		"description":""
+	},
+
+
+	"miscMsgOffline":{
+		"message":"No internet connection available"
+	},
+	"miscMsgUiFail":{
+		"message":"Unable to load UI."
+	},
+	"miscMsgSettingError": {
+		"message": "An error occurred whilst changing the setting"
+	},
+	"miscMsgLoading":{
+		"message":"Loading..."
+	},
+	"miscMsgSaving":{
+		"message":"Saving..."
+	},
+	"miscMsgSending":{
+		"message":"Sending..."
+	},
+	"miscMsgPleaseWait":{
+		"message":"Please wait..."
+	},
+	"miscMsgUnblockOrigin":{
+		"message":"Unblock the Origin URL: "
+	},
+	"miscMsgUnblockPath":{
+		"message":"Unblock the URL path: "
+	},
+	"miscMsgUnblockHost":{
+		"message":"Unblock the Host URL: "
+	},
+	"miscMsgUnblockRoot":{
+		"message":"Unblock the Root Domain: "
+	},
+	"miscMsgWhitelistBlockSite": {
+		"message": "Block access to this site"
+	},
+	"miscMsgWhitelistAllowInitReq": {
+		"message": "Allow this site to make requests to blocked sites"
+	},
+	"miscCtrlEnabled":{
+		"message":"已启用"
+	},
+	"miscCtrlDisabled":{
+		"message":"已禁用"
+	},
+	"miscCtrlModifyEntry":{
+		"message":"修改"
+	},
+	"miscCtrlApplyEntry":{
+		"message":"应用"
+	},
+	"miscCtrlCancel":{
+		"message":"取消"
+	},
+	"miscCtrlClose":{
+		"message":"关闭"
+	},
+	"miscCtrlOkay":{
+		"message":"确定"
+	},
+	"miscCtrlSave":{
+		"message":"保存"
+	},
+	"miscCtrlSaveClose":{
+		"message":"保存并关闭"
+	},
+
+
+	"PrefNameAudioFingerprint": {
+		"message": "Audio Fingerprinting 保护"
+	},
+	"PrefNameBatteryApi": {
+		"message": "Battery API 保护"
+	},
+	"PrefNameCanvasFingerprint": {
+		"message": "Canvas Fingerprinting 保护"
+	},
+	"PrefNameClientRects": {
+		"message": "getClientRects 保护"
+	},
+	"PrefNameCommonTracking": {
+		"message": "Common Tracking 保护"
+	},
+	"PrefNameCookieEater": {
+		"message": "Cookie Eater"
+	},
+	"PrefNameETagTrack": {
+		"message": "E-Tag Tracking 保护"
+	},
+	"PrefNameFontFingerprint": {
+		"message": "Font Fingerprinting 保护"
+	},
+	"PrefNameGoogleHeader": {
+		"message": "Google Header Removal"
+	},
+	"PrefNameHardwareSpoof": {
+		"message": "Hardware Fingerprinting 保护"
+	},
+	"PrefNameIPSpoof": {
+		"message": "Proxy IP Header Spoofing"
+	},
+	"PrefNameNativeFunctions": {
+		"message": "JS functions"
+	},
+	"PrefNameNetworkInformation": {
+		"message": "Network Information API"
+	},
+	"PrefNamePingBlock": {
+		"message": "Ping Protection"
+	},
+	"PrefNamePluginHide": {
+		"message": "JS Plugin Hide"
+	},
+	"PrefNameReferHeader": {
+		"message": "Referer Controller"
+	},
+	"PrefNameScreenRes": {
+		"message": "屏幕分辨率生成器"
+	},
+	"PrefNameUserAgent": {
+		"message": "User-Agent 随机生成器"
+	},
+	"PrefNameWebGLFingerprint": {
+		"message": "WebGL Fingerprinting 保护"
+	},
+	"PrefNameWebRTC": {
+		"message": "WebRTC 保护"
+	},
+
+	"advHomeMsgWelcomeLong":{
+		"message":"欢迎访问 Trace 插件仪表盘!"
+	},
+	"advHomeMsgWelcomeShort":{
+		"message":"Trace 插件仪表盘"
+	},
+	
+	"advHomePauseTitle": {
+		"message": "暂停Trace插件"
+	},
+	"advHomePauseDesc": {
+		"message": "当暂停时，Trace 的所有保护功能将被禁用。当你重新启动浏览器后，这些功能将会重新开启。"
+	},
+	"advHomePausePause": {
+		"message":"点击暂停（当前实际为启用状态）"
+	},
+	"advHomePauseUnpause": {
+		"message":"点击启用（当前实际为暂停状态）"
+	},
+	
+	"advHomeSessionTitle":{
+		"message": "Browsing Session"
+	},
+	"advHomeSessionDesc":{
+		"message": "Configure values that Trace will provide to websites for this browsing session."
+	},
+	"advHomeSessionConfig":{
+		"message": "配置"
+	},
+
+	"advNavMenuToggle": {
+		"message": "菜单"
+	},
+
+	"advOverlayCtrlClose":{
+		"message":"关闭",
+		"description":"button text for a trace overlay"
+	},
+
+	"advTraceCtrlWebsite":{
+		"message":"Website",
+		"description":"link to website"
+	},
+	"advPremiumCtrlBuy":{
+		"message":"获取激活码",
+		"description":"button text for premium purchase"
+	},
+	"advPremiumCtrlDisable":{
+		"message":"Disable Premium",
+		"description":"button text for premium removal"
+	},
+	"advPremiumMsgHelp":{
+		"message":"插件帮助",
+		"description":"content text title for premium help messages"
+	},
+	"advPremiumMsgTitle":{
+		"message":"Trace Premium",
+		"description":"content text title for premium messages"
+	},
+	"advPremiumMsgThanks":{
+		"message":"Thank you for supporting Trace!",
+		"description":"content text for when user has premium active"
+	},
+	"advPremiumMsgRequired":{
+		"message":"该操作只对高级版插件生效",
+		"description":"content text for when user does not have premium"
+	},
+	
+	"advSessionTitle": {
+		"message": "Trace Browsing Session"
+	},
+
+	"advSettingsCtrlEnabled":{
+		"message":"已启用",
+		"description":"setting enabled/disabled toggle"
+	},
+	"advSettingsCtrlDisabled":{
+		"message":"已禁用",
+		"description":"setting enabled/disabled toggle"
+	},
+	"advSettingsMsgDisabled":{
+		"message":"This setting isn't currently enabled"
+	},
+	"advSettingsMsgSwitch":{
+		"message":"When the switch is green, the protection is enabled."
+	},
+	"advSettingsMsgImmediate":{
+		"message":"Changes to these settings should take place immediately"
+	},
+	"advSettingsRunsAllPages":{
+		"message":"默认运行"
+	},
+	"advSettingsRunsPerPage":{
+		"message":"启用时运行"
+	},
+
+	"advStatsGraphTodayTotal":{
+		"message":"Today's total statistics",
+		"description":"title of graph"
+	},
+	"advStatsGraphTodayType":{
+		"message":"Today's total statistics",
+		"description":"title of graph"
+	},
+
+	"advBackupMsgTitle":{
+		"message":"Backup/Restore Settings"
+	},
+	"advBackupCtrlCreate":{
+		"message":"Download Backup"
+	},
+	"advRestoreMsgTitle":{
+		"message":"Restore a backup"
+	},
+	"advRestoreMsgSubhead":{
+		"message":"You are about to restore a backup..."
+	},
+	"advRestoreMsgInvalid":{
+		"message":"This file isn't a valid Trace Backup."
+	},
+
+	"advBlocklistConfTitle": {
+		"message": "Trace Blocklist Customiser"
+	},
+	"advBlocklistConfSearchBox": {
+		"message": "Search lists"
+	},
+	"advBlocklistConfListDefault": {
+		"message": "Default List"
+	},
+	"advBlocklistConfListOptional": {
+		"message": "Optional List"
+	},
+	"advBlocklistConfListPremium": {
+		"message": "Premium List"
+	},
+
+	"advSettCanvasCustomSubhead":{
+		"message": "If you don't use custom RGBA values then random ones will be generated at each page load."
+	},
+	"advSettCanvasCustomRgba":{
+		"message": "Use custom RGBA values specified below"
+	},
+
+	"advSettHardwareBlockVr":{
+		"message": "Block VR API"
+	},
+	"advSettHardwareBlockGamepad":{
+		"message": "Block Gamepad API"
+	},
+	"advSettHardwareCountCpu":{
+		"message": "Spoof CPU Core Count"
+	},
+	"advSettHardwareCountRam":{
+		"message": "Spoof RAM amount"
+	},
+
+	"advSettScreenResAddSubhead":{
+		"message": "Use this to specify resolutions that will be provided, one will randomly be chosen at each page reload. Click a resolution to delete it."
+	},
+	"advSettScreenResEmptyListHead": {
+		"message": "No Resolutions in list."
+	},
+	"advSettScreenResEmptyListSubhead": {
+		"message": "Protection will not work unless you specify a resolution"
+	},
+	"advSettScreenResAddWidth":{
+		"message": "Width (px)"
+	},
+	"advSettScreenResAddHeight":{
+		"message": "Height (px)"
+	},
+	"advSettScreenResAddDepth":{
+		"message": "Depth (px)"
+	},
+	"advSettScreenResAddButton":{
+		"message": "Add Resolution"
+	},
+	"advSettScreenResAddCommon":{
+		"message": "Add Common Resolutions"
+	},
+	"advSettScreenResClearList":{
+		"message": "Clear List"
+	},
+
+	"advSettWebglGpuSubhead": {
+		"message": "Below you can add specific GPU models to be selected by Trace, if you don't add any, Trace's built in list will be used."
+	},
+	"advSettWebglGpuEmptyListHead": {
+		"message": "No GPUs in list."
+	},
+	"advSettWebglGpuAddButton":{
+		"message": "Add GPU"
+	},
+	"advSettWebglGpuAddCommon":{
+		"message": "Import Trace's List"
+	},
+	"advSettWebglGpuClearList":{
+		"message": "Clear List"
+	},
+
+
+	"advWhitelistListSearch": {
+		"message": "Search..."
+	},
+	"advWhitelistListRefresh": {
+		"message": "刷新列表"
+	},
+	"advWhitelistListClear": {
+		"message": "清空列表"
+	},
+	"advWhitelistListTest": {
+		"message": "测试 URL"
+	},
+	"advWhitelistListAdd": {
+		"message": "新增"
+	},
+	"advWhitelistListRemove": {
+		"message": "移除"
+	},
+	"advWhitelistListEdit": {
+		"message": "编辑"
+	},
+	"advWhitelistListImport": {
+		"message": "导入/导出"
+	},
+	"advWhitelistListHelp": {
+		"message": "帮助"
+	},
+
+	"advWhitelistListClearConfirm": {
+		"message": "您确定要清空白名单列表吗？"
+	},
+	"advWhitelistListNoEntries": {
+		"message": "白名单中还没有任何记录。"
+	},
+
+	"advWhitelistEditorProtections": {
+		"message": "点击某个保护以更改其是否运行"
+	},
+
+	"advWhitelistAddTitle": {
+		"message": "添加白名单记录"
+	},
+
+	"advWhitelistEditTitle": {
+		"message": "编辑白名单记录"
+	},
+
+	"advWhitelistTestTitle": {
+		"message": "测试列表"
+	},
+
+	"advWhitelistHelpTitle": {
+		"message": "白名单帮助"
+	},
+	"advWhitelistHelpSubhead": {
+		"message": ""
+	},
+
+	"advWhitelistImportTitle": {
+		"message": "导入/导出白名单"
+	},
+
+
+	"tutSettingsTitle": {
+		"message": "Trace 设置简介"
+	},
+	"tutRequestsTitle": {
+		"message": "Trace 的请求设置"
+	},
+	"tutWhitelistTitle": {
+		"message": "白名单选项"
+	},
+
+
+	"mainNavProtection":{
+		"message":"保护",
+		"description":""
+	},
+	"mainNavSiteList":{
+		"message":"站点列表",
+		"description":""
+	},
+	"mainNavAdvanced":{
+		"message":"高级",
+		"description":""
+	},
+	"mainNavAbout":{
+		"message":"关于",
+		"description":""
+	},
+
+	"mainTitleProtection":{
+		"message":"Trace插件仪表盘",
+		"description":""
+	},
+	"mainTitlePresets":{
+		"message":"Trace插件保护级别",
+		"description":""
+	},
+	"mainTitleSiteList":{
+		"message":"Site List",
+		"description":""
+	},
+	"mainSubTitleProtection":{
+		"message":"欢迎使用新设置页面",
+		"description":""
+	},
+	"mainSubTitlePresets":{
+		"message":"所有网站的全局保护级别",
+		"description":""
+	},
+  	"mainSubTitleSiteList":{
+		"message":"为网站设置自定义保护级别",
+		"description":""
+  	},
+
+  	"mainCardTitleDisabled": {
+	  	"message":"未保护"
+	},
+  	"mainCardTitleWeb": {
+	  	"message":"网站拦截"
+	},
+  	"mainCardTitlePremium": {
+	  	"message":"Trace高级版"
+	},
+  	"mainCardTitleLow": {
+	  	"message":"低"
+	},
+  	"mainCardTitleMedium": {
+	  	"message":"中"
+	},
+  	"mainCardTitleHigh": {
+	  	"message":"高"
+	},
+  	"mainCardTitleExtreme": {
+	  	"message":"极高"
+	},
+  	"mainCardTitleCustom": {
+	  	"message":"自定义"
+	},
+
+  	"mainCardDescDisabled": {
+	  	"message":"当暂停时，Trace 的所有保护功能将被禁用。当您重新启动浏览器后，这些功能将会重新开启。"
+	},
+  	"mainCardDescWeb": {
+	  	"message":"这将使 Trace 能够阻止跟踪器、恶意域名并清除 URL 中的跟踪信息。"
+	},
+  	"mainCardDescPremium": {
+	  	"message":"通过购买 Trace 高级版，获取高级阻止列表的访问权限，并支持 Trace 的开发。"
+	},
+  	"mainCardDescLow": {
+	  	"message":"最低级别的跟踪保护，总比没有好？"
+	},
+  	"mainCardDescMedium": {
+	  	"message":"默认级别的跟踪保护。"
+	},
+  	"mainCardDescHigh": {
+	  	"message":"更高强度的跟踪保护。由于某些保护措施，网站可能会出现部分功能异常。"
+	},
+  	"mainCardDescExtreme": {
+	  	"message":"非常高的跟踪保护级别。几乎所有保护功能都已启用，这可能会导致网站功能异常。"
+	},
+  	"mainCardDescCustom": {
+	  	"message":"单独控制每个 Trace 设置，包括这些预设中未包含的设置。"
+	},
+
+  	"mainCardCtrlPause": {
+	  	"message":"暂停（当前为启用状态）"
+	},
+  	"mainCardCtrlUnpause": {
+	  	"message":"启用（当前为暂停状态）"
+	},
+  	"mainCardCtrlWeb": {
+	  	"message":"配置"
+	},
+  	"mainCardCtrlPremium": {
+	  	"message":"选项"
+	},
+  	"mainCardCtrlSelect": {
+	  	"message":"点击以选择此预设"
+	},
+  	"mainCardCtrlSelected": {
+	  	"message":"已选择此预设"
+	},
+
+  	"mainSiteListSearchPlaceholder": {
+	  	"message":"Search..."
+	},
+  	"mainSiteListAddPlaceholder": {
+	  	"message":"将URL加入清单"
+	},
+  	"mainSiteListSliderNone": {
+	  	"message":"当前配置：无"
+	},
+  	"mainSiteListSliderLow": {
+	  	"message":"当前配置：低"
+	},
+  	"mainSiteListSliderMedium": {
+	  	"message":"当前配置：中"
+	},
+  	"mainSiteListSliderHigh": {
+	  	"message":"当前配置：高"
+	},
+  	"mainSiteListSliderExtreme": {
+	  	"message":"当前配置：极高"
+	},
+  	"mainSiteListSliderCustom": {
+	  	"message":"当前配置：自定义"
+	},
+
+
+	"popMiscMsgUnsupported":{
+		"message":"Unsupported URL"
+	},
+	"popNavCtrlPause":{
+		"message":"暂停插件"
+	},
+	"popNavCtrlUnpause":{
+		"message":"启用插件"
+	},
+	"popNavCtrlWhitelist":{
+		"message":"临时白名单"
+	},
+	"popNavCtrlUnwhitelist":{
+		"message":"取消白名单"
+	},
+	"popHomeMsgNoHeaderEnabled":{
+		"message":"未启用任何Header标头保护"
+	},
+	"popHomeMsgNoHeaderUsed":{
+		"message":"此标签页未使用任何Header标头保护"
+	},
+
+	"popReportMsgSuccess":{
+		"message":"Report Successful"
+	},
+	"popReportMsgFail":{
+		"message":"Report Sending Failed"
+	}
+}
