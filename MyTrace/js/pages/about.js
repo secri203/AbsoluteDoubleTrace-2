@@ -25,12 +25,9 @@ let About = {
 				//$("<button/>").text(lang("advPremiumCtrlDisable")),
 				//$("<span/>").text(" "),
 				$("<button/>").text(
-					(bg.Prefs.Current.Pref_WebController.enabled === true ? "Force Blocklist Update" : "Enable Web Request Controller")
+					(bg.Prefs.Current.Pref_WebController.enabled === true ? "强制更新阻止列表" : "启用网络请求控制器")
 				).on("click enter",About.UpdateBlocklist),
-				$("<span/>").text(" "),
-				$("<button/>").on("click enter",function(){
-					openNewTab("https://absolutedouble.co.uk/trace/");
-				}).text(lang("advTraceCtrlWebsite"))
+				$("<span/>").text(" ")
 			);
 		});
 	},
