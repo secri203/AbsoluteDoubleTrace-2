@@ -1,0 +1,2 @@
+# AbsoluteDoubleTrace-
+目前AbsoluteDoubleTrace原作者已不再维护，此次主要对该插件做了汉化处理，并优化了高级版激活机制
