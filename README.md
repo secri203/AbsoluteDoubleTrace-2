@@ -15,10 +15,13 @@
 1、下载源码到本地，并解压
 2、打开chrome浏览器扩展程序，并设置为“开发者模式”
 3、点击“加载已解压的扩展程序”，选择第一步解压出来的插件源码目录
-4、启用并调整Trace插件各项保护配置
+4、启用并调整Trace插件各项保护配置（建议使用高级版保护功能）
 5、清空浏览器全部缓存
 6、使用浏览器指纹在线检测工具，测试指纹信息是否发生了变化
 
 # 指纹检测工具推荐：
 1、浏览器指纹在线检测	https://gongjux.com/fingerprint/
 2、检测浏览器指纹（这个检测更严格）	https://www.dingxiang-inc.com/business/fingerprint
+
+![image](https://github.com/user-attachments/assets/193a52db-09cc-4870-b4b0-52d6fcb6e64c)
+
